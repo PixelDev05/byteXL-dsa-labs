@@ -1,2 +1,2 @@
 # Arrays Lab Questions
-Solutions to ByteXL array labs.
+Lab 1-10 all questions
